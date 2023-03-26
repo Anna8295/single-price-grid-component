@@ -1,25 +1,31 @@
-# Frontend Mentor - Single Price Grid Component
 
-![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
+# Single Price Grid Component
 
-## Welcome! 👋
+The component is manufactured according to the design provided.
 
-Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
+## Demo
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+https://anna8295.github.io/single-price-grid-component/
 
-## The challenge
 
-Your users should be able to:
+## Tech Stack
 
-- View the optimal layout for the component depending on their device's screen size
-- See a hover state on desktop for the Sign Up call-to-action
+**Client:** HTML, CSS
 
-## Personal comment
 
-- I tried to make it as similar as I was able, I am not sure about the sizing of the components
+
+## Lessons Learned
+
+I practised my knowledge of CSS and create the optimal layout for the component depending on their device's screen size.
+
+
+## Acknowledgements
+
+ - [The design and idea are taken from: frontendmentor.io](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
+
+
+
  
 
 
