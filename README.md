@@ -1,7 +1,7 @@
 
 # Single Price Grid Component
 
-The component is manufactured according to the design provided.
+The component consists of titles, text, button and list orders.
 
 
 ## Demo
